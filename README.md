@@ -52,7 +52,7 @@ lista de tarefas:
 
 NUM | NOM | NOTA
 ---|---|---
-1|daniel|99,9
+1|daniel|9,9
 2|rzene|3,9
 3|jao|9,1
 
