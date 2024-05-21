@@ -69,5 +69,5 @@ if num % == 0:
                  print (f ' O valor{num} é IMPAR' )
 ´´´
 
-***       
+      
 
